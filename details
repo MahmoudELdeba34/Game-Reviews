@@ -1,0 +1,32 @@
+Game Reviews Repository
+Welcome to the Game Reviews repository! This repository contains a website that showcases game reviews. It provides information about different game categories, allowing users to explore and find details about various games.
+
+Table of Contents
+-Introduction
+-Features
+-Installation
+-Usage
+-Contributing
+-License
+Introduction
+The Game Reviews website is designed to offer information about games from different categories, including MMORPG, Shooter, Sailing, Permadeath, and Pixel. Users can explore game details, view reviews, and access external links to learn more about each game.
+
+Features
+Navigation: Easy navigation with a categorized menu for MMORPG, Shooter, Sailing, Permadeath, and Pixel games.
+Game Cards: Interactive cards with game titles, thumbnails, and brief descriptions.
+Game Details: Clicking on a game card opens a detailed view with information such as title, category, platform, status, and a short description.
+External Links: Direct links to external sources for additional information or to play the games.
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone [repository_url]
+Open the index.html file in your preferred web browser.
+
+Usage
+Explore different game categories using the navigation bar.
+Click on a game card to view detailed information about the selected game.
+Access external links to visit the game's site or GitHub repository.
+Contributing
+Contributions are welcome! If you have any improvements or features you'd like to add, feel free to fork the repository and submit a pull request.
